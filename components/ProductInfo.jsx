@@ -155,7 +155,7 @@ export default function ProductInfo({
 
         <div className="flex flex-row justify-center md:justify-start items-center mt-2">
           <div className="w-full">
-            <Link href={CTALink} target="_blank">
+            <Link href={CTALink}>
               <button className="bg-[#ffba00] text-white hover:bg-black font-semibold py-3 px-16 rounded-xl h-full uppercase w-full md:w-[50%]">
                 buy now
               </button>

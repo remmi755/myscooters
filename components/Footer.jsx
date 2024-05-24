@@ -23,7 +23,7 @@ export default function Footer() {
 
       <div className="flex flex-col md:flex-row justify-center items-center pt-5">
         <div className="w-full text-center text-sm text-white">
-          Website - No Rights Reserved
+          Website - 2024
         </div>
       </div>
     </footer>
